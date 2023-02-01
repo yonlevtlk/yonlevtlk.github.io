@@ -1,0 +1,1 @@
+import{k as t,J as r,K as e,aI as s,ay as c}from"./index.662f4498.js";const d=t({__name:"ButtonDownload",props:{data:String},setup(o){const n=o;function a(){alert(n.data)}return(i,l)=>(r(),e(c,{round:"",icon:"download",size:"sm",color:"primary",onClick:s(a,["stop"])},null,8,["onClick"]))}});export{d as default};

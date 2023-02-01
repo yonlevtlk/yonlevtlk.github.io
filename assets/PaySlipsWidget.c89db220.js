@@ -1,0 +1,1 @@
+import{J as e,N as r,G as t}from"./index.662f4498.js";function a(n,o){return e(),r("h1",null,"\u0420\u0430\u0441\u0447\u0435\u0442\u043D\u044B\u0435 \u043B\u0438\u0441\u0442\u043E\u0447\u043A\u0438")}const c={};var l=t(c,[["render",a]]);export{l as default};
